@@ -1,0 +1,25 @@
+/**************************************************************/
+/*            mystyle for bootstrap exercise receta           */
+
+/* 
+Podemos crear nuestra propias clases
+
+.bg-purple {background-color: blueviolet;}
+.text-purple {color: blueviolet;}
+.border-purple {border: blueviolet;}
+
+*/
+/***********  New color *************/
+.bg-lightorange{background-color: rgb(244, 218, 170);}
+.bg-red{background-color:rgb(123, 17, 17);}
+
+/*        NEW SPACING       */
+.p-6{padding: 7em;}
+/*        NEW sizes       */
+.vh-85{height: 85vh;}
+.mw-800{max-width: 800px;}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../img/tomates.jpg);
+}
